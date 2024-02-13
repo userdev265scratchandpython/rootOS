@@ -1,0 +1,1 @@
+this os requires the python modules : "tkinter" , "os" , "time" , "random".
